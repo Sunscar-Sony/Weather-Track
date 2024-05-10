@@ -17,7 +17,7 @@ Welcome to WeatherSphere - your ultimate weather companion!
 
 ## Feedback:
 
-We're constantly improving WeatherSphere to provide you with the best experience. If you have any feedback or suggestions, feel free to contact us at [support@weathersphere.com](mailto:support@weathersphere.com).
+We're constantly improving WeatherSphere to provide you with the best experience. If you have any feedback or suggestions, feel free to contact me.
 
 Happy weather tracking!
 
