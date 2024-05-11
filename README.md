@@ -1,6 +1,6 @@
 # Weather Track
 
-Welcome to WeatherSphere - your ultimate weather companion!
+Welcome to Weather Track - your ultimate weather companion!
 
 ## Features:
 
