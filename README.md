@@ -1,4 +1,4 @@
-# WeatherTrek
+# Weather Track
 
 Welcome to WeatherSphere - your ultimate weather companion!
 
