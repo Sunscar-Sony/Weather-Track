@@ -8,6 +8,8 @@ body {
 	align-items: center;
 	height: 100vh;
 	background-image: url(wickedbackground.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 
